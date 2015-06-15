@@ -5,4 +5,4 @@ Git is free software distributed under GPL
 "git add" but not "git commit"
 "git add" and "git commit" third times
 
-Creating a branch in git is very quick.
+Creating a new branch in git is very quick and simple.
