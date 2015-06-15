@@ -6,3 +6,4 @@ Git is free software distributed under GPL
 "git add" and "git commit" third times
 
 Creating a new branch in git is very quick and simple.
+new branch in dev (merge it with no fast-forward mode)
