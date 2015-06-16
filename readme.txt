@@ -7,3 +7,5 @@ Git is free software distributed under GPL
 
 Creating a new branch in git is very quick and simple.
 new branch in dev (merge it with no fast-forward mode)
+modify in dev (not master), try to use cherry-pick
+
